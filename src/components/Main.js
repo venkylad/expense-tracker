@@ -14,6 +14,7 @@ const Main = () => {
     <div className="card m-1 bg-info">
       <div className="card-header">
         <h3>Expense Tracker</h3>
+        <p>Try using Speech button.</p>
       </div>
       <div className="card-body">
         <h3 className="card-subtitle mb-2 text-white">
